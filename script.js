@@ -13,7 +13,7 @@ answers[2] = prompt('Сколько вам лет?', "")
 document.write(answers)
 
 console.log('1')
-
+d
 
 
 
